@@ -1,0 +1,6 @@
+/*element blokowy w pozycji absolutnej bedzie dostosowywał swoja szerokość do tresci*/
+
+div {
+
+    border: 4px solid red;
+}

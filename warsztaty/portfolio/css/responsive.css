@@ -1,0 +1,11 @@
+@media all and (max-width: 992px)
+/*    RWD main menu*/
+
+#main-nav .toggle {
+    display: block;
+    padding: 0 20px;
+    color: black;
+    font-size: 20px;
+    line-height: 60px;
+    text-align: right;
+}

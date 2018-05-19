@@ -1,0 +1,92 @@
+/*NAV*/
+
+nav#main-nav a.navbar-brand {
+    color: #fff;
+    font-weight: 500;
+}
+
+
+nav ul > li {
+    text-transform: uppercase;
+}
+
+nav#main-nav a.nav-link {
+    color: #fff;
+    font-weight: 500;
+}
+
+/*HEADER*/
+
+header#main {
+
+    background-image: url("../img/transparency.png"),
+    url("../img/header/pictures_on_the_wall.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-blend-mode: color-burny;
+    height: 100vh;
+    width: 100%;
+
+}
+
+header#main > div.header-content {
+    text-align: center;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+header#main h1 {
+    font-size: 50px;
+    text-align: center;
+    color: #fff;
+}
+
+header#main p.main {
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+    font-weight: 700;
+    text-align: center;
+    font-size: 60px;
+    margin: 30px;
+}
+
+/*Services*/
+
+.container.row {
+    height: 100vh;
+    background-color: white;
+}
+
+.services {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.services-text {
+    font-style: italic;
+    font-size: 18px;
+    font-weight: 200;
+    text-align: center;
+}
+
+.row {
+    text-align: center;
+}
+
+.container .fas {
+    background-color: #0ed8d6;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    border: 3px solid black;
+    line-height: 70px;
+
+}
+
+
+.container .fas:hover {
+    transform: rotate(360deg);
+}

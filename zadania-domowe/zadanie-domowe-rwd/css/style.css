@@ -1,0 +1,162 @@
+/*
+
+div {
+    width: 100%;
+    font-size: 16px;
+    background-repeat: no-repeat;
+}
+*/
+
+/*nowe
+*/
+
+/*
+
+div {
+    width: 100%;
+    font-size: 16px;
+    background-repeat: no-repeat;
+}
+*/
+
+#kontener {
+    background-image: url("http://4kcarwallpapers.com/wp-content/uploads/2017/05/Red-sports-car-in-high-speed-running-debris-creative_2560x1600-768x480.jpg");
+    background-repeat: no-repeat;
+    font-family: verdana;
+    height: 2000px;
+}
+
+
+@media all (max-width:1170px) {
+    #kontener {
+        height: 50%;
+    }
+    h1 {
+        text-align: left;
+        bottom: 50%
+    }
+}
+
+
+@media all and (min-width:993px) and (max-width:1169px) {
+    #kontener {
+        height: 70%;
+    }
+    h1 {
+        text-align: right;
+        top: 0%;
+    }
+}
+
+
+@media all and (max-width:992px) {
+    #kontener {
+        height: 50%;
+    }
+
+}
+
+
+
+
+
+/*
+@media screen (min-width: 1170px) {
+    h1 {
+        text-align: left;
+    }
+    img {
+        height: 100%
+    }
+}
+
+
+
+@media screen (min-width: 992px) and (max-width: 1169px) {
+    img {
+        width: 70%;
+    }
+}
+
+@media screen (min-width: 991px) {
+    h1 {
+        top: 100%;
+    }
+    img {
+        height: 50%
+    }
+
+}
+*/
+
+/*poprzednie*/
+
+/*
+#kontener {
+    background-image: url("http://4kcarwallpapers.com/wp-content/uploads/2017/05/Red-sports-car-in-high-speed-running-debris-creative_2560x1600-768x480.jpg");
+    background-repeat: no-repeat;
+    font-family: verdana;
+    height: 2000px;
+}
+
+
+@media all (max-width:1170px) {
+    #kontener {
+        height: 50%;
+    }
+    h1 {
+        text-align: left;
+        bottom: 50%
+    }
+}
+
+
+@media all and (min-width:993px) and (max-width:1169px) {
+    #kontener {
+        height: 70%;
+    }
+    h1 {
+        text-align: right;
+        top: 0%;
+    }
+}
+
+
+@media all and (max-width:992px) {
+    #kontener {
+        height: 50%;
+    }
+
+}
+*/
+
+/*poprzednie*/
+
+/*
+@media screen (min-width: 1170px) {
+    h1 {
+        text-align: left;
+    }
+    img {
+        height: 100%
+    }
+}
+
+
+
+@media screen (min-width: 992px) and (max-width: 1169px) {
+    img {
+        width: 70%;
+    }
+}
+
+@media screen (min-width: 991px) {
+    h1 {
+        top: 100%;
+    }
+    img {
+        height: 50%
+    }
+
+}
+*/
